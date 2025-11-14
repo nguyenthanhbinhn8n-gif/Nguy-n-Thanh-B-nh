@@ -1,0 +1,5 @@
+{
+  "name": "NTCons - Hr-tuyendung",
+  "description": "Một ứng dụng web để tải lên và phân tích hồ sơ tuyển dụng PDF. Các hồ sơ được gửi đến một webhook để xử lý.",
+  "requestFramePermissions": []
+}
